@@ -1,8 +1,8 @@
 # study
 2018.8.13 <br>
 Ya-Di Ma:  https://www.jianshu.com/p/5681a1f0aad6 <br>
-ÒýÓÃµÄÄ¿µÄÖ÷ÒªÓÃÓÚÔÚº¯Êý²ÎÊý´«µÝÖÐ£¬½â¾ö´ó¿éÊý¾Ý»ò¶ÔÏóµÄ´«µÝÐ§ÂÊºÍ¿Õ¼ä²»ÈçÒâµÄÎÊÌâ¡£<br>
-Java Ñ§Ï°£ºServlet/JSP(J2EE)--ÂíÊ¿±øÊÓÆÁ-->mysql(navicat/sqlyog)-->¿ª·¢¿ò¼ÜSSM(spring,springmvc,mybatis)-->¡¶Java±à³ÌË¼Ïë¡·-->¡¶´ó»°Éè¼ÆÄ£Ê½¡·/¡¶ÖØ¹¹ ¸ÄÉÆ¼ÈÓÐ´úÂëµÄÉè¼Æ¡·/¡¶Effective java¡·-->!!!¡¶ÉîÈëÀí½âJavaÐéÄâ»ú¡·!!!-->¡¶Java²¢·¢±à³ÌÊµÕ½¡·-->´óÊý¾Ý(Hadoop¡¢hbase)¡¢·Ö²¼Ê½»º´æ(redis)¡¢·Ö²¼Ê½ÏûÏ¢·þÎñ¡¢·Ö²¼Ê½¼ÆËã(Mapreduce/storm)¡¢Èí¸ºÔØ¾ùºâ-->»ù´¡Êé¼®Èý±¾¡¶ÉîÈëÀí½â¼ÆËã»úÏµÍ³¡·£¬¡¶tcp/ipÏê½â ¾íÒ»¡¢¶þ¡¢Èý¡·£¬¡¶¡Êý¾Ý½á¹¹ÓëËã·¨¡·
+å¼•ç”¨çš„ç›®çš„ä¸»è¦ç”¨äºŽåœ¨å‡½æ•°å‚æ•°ä¼ é€’ä¸­ï¼Œè§£å†³å¤§å—æ•°æ®æˆ–å¯¹è±¡çš„ä¼ é€’æ•ˆçŽ‡å’Œç©ºé—´ä¸å¦‚æ„çš„é—®é¢˜ã€‚<br>
+Java å­¦ä¹ ï¼šServlet/JSP(J2EE)--é©¬å£«å…µè§†å±-->mysql(navicat/sqlyog)-->å¼€å‘æ¡†æž¶SSM(spring,springmvc,mybatis)-->ã€ŠJavaç¼–ç¨‹æ€æƒ³ã€‹-->ã€Šå¤§è¯è®¾è®¡æ¨¡å¼ã€‹/ã€Šé‡æž„ æ”¹å–„æ—¢æœ‰ä»£ç çš„è®¾è®¡ã€‹/ã€ŠEffective javaã€‹-->!!!ã€Šæ·±å…¥ç†è§£Javaè™šæ‹Ÿæœºã€‹!!!-->ã€ŠJavaå¹¶å‘ç¼–ç¨‹å®žæˆ˜ã€‹-->å¤§æ•°æ®(Hadoopã€hbase)ã€åˆ†å¸ƒå¼ç¼“å­˜(redis)ã€åˆ†å¸ƒå¼æ¶ˆæ¯æœåŠ¡ã€åˆ†å¸ƒå¼è®¡ç®—(Mapreduce/storm)ã€è½¯è´Ÿè½½å‡è¡¡-->åŸºç¡€ä¹¦ç±ä¸‰æœ¬ã€Šæ·±å…¥ç†è§£è®¡ç®—æœºç³»ç»Ÿã€‹ï¼Œã€Štcp/ipè¯¦è§£ å·ä¸€ã€äºŒã€ä¸‰ã€‹ï¼Œã€Šæ•°æ®ç»“æž„ä¸Žç®—æ³•ã€‹<br>
 <br>
 2018.8.10 <br>
 Ya-Di Ma:  https://en.cppreference.com/w/cpp/language/const_cast <br>
