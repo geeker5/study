@@ -1,6 +1,9 @@
 # study
+2018.8.16 <br>
+mmhu: Java如何有效地避免OOM：善于利用软引用和弱引用　http://www.cnblogs.com/dolphin0520/p/3784171.html<br>
+<br>
 2018.8.15 <br>
-mmhu: Java IO https://blog.csdn.net/suifeng3051/article/details/48344587<br>
+mmhu: Java IO NIO https://blog.csdn.net/suifeng3051/article/details/48344587<br>
 <br>
 2018.8.14 <br>
 mmhu: Java内部类  https://www.cnblogs.com/dolphin0520/p/3811445.html<br>
