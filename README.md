@@ -1,4 +1,7 @@
 # study
+<br>
+mmhu: Java并发编程：volatile关键字解析 https://www.cnblogs.com/dolphin0520/p/3920373.html<br>
+<br>
 2018.8.16 <br>
 mmhu: Java如何有效地避免OOM：善于利用软引用和弱引用　http://www.cnblogs.com/dolphin0520/p/3784171.html<br>
 <br>
